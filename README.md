@@ -14,5 +14,5 @@
 > ## Website ini masih dalam pengembangan
 
 ## Tampilan WEB
-![](/Assets/screen/Capture)
+![](/Assets/screen/Capture.PNG)
 
